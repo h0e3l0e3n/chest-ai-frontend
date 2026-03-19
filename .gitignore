@@ -1,0 +1,10 @@
+# Flutter ignores
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# OS-specific
+.DS_Store
+Thumbs.db
